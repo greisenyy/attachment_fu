@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Fix RTDETR generate anchor grid out of boundary (#7247)
